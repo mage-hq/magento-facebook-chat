@@ -1,5 +1,5 @@
 # magento-facebook-chat
-Magento 2 Facebook Chat Free provide live chat support and easy communication to the users, keeps you responsive to Facebook Customers.
+Magento 2 Facebook Chat extension enables you to interact with your customers via Facebook messenger. It can support you in improving customer happiness, customer loyalty and sales results.
 
 Please go to https://magehq.com/magento-2-facebook-chat.html download free extension
 
